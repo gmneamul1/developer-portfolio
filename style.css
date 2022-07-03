@@ -9,6 +9,11 @@ h1{
     color: orange;
     font-size: 50px;
 }
+
+.orange1{
+    color: rgb(250, 170, 22);
+    
+}
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
@@ -49,3 +54,16 @@ h1{
         text-align: left;
         font-size: 38px;
     }
+.experiance1{
+    box-shadow: 10px 30px 40px grey;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 8px;
+    border-radius: 4px;
+}
+.experiance{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
